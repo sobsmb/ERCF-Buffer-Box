@@ -10,6 +10,7 @@
 126 x [M5 x 10mm Flat Head](https://a.co/d/01dUSnKL)<br>
 6 x [M5 x 10mm Button Head](https://a.co/d/0gON3Pdr)<br>
 24 x [M5 x 16 Flat Head](https://a.co/d/0dsYRy5x)<br>
+24 x [M5 Washers](https://a.co/d/097miC8M)<br>
 4 x [PC4-M10 Male Straight Pneumatic PTFE Tube Push in Quick Fitting Connector](https://a.co/d/0e4PLHHR)<br>
 2 x [10 Inch 100N/22.5Lb Gas Struts](https://www.amazon.com/dp/B09BYY65W1)<br>
 20ft x [Weather Stripping, D-shaped Rubber Seal Strip](https://www.amazon.com/dp/B0CCRXHYT7)<br>
