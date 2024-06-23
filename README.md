@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="/Assets/Filament_Box.png" alt='Buffer-Box' width='70%'>
-  <h1 align="center">ERCF-Buffer-Box</h1>
 </p>
 
 12 Spool Buffer Filament Box for the ERCF v2
