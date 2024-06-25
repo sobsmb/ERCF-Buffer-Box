@@ -10,11 +10,10 @@
 
 ## BOM
 
-6 x [M4 Roll in T-nuts](https://www.amazon.com/dp/B07VHNZ9XG)<br>
-~136 x [M5 Roll in T-nuts](https://www.amazon.com/dp/B07VHNGBWJ)<br>
+12 x [M4 Roll in T-nuts](https://www.amazon.com/dp/B07VHNZ9XG)<br>
 12 x [M4 x 10mm Flat Head](https://a.co/d/0fNCq3q4)<br>
+~130 x [M5 Roll in T-nuts](https://www.amazon.com/dp/B07VHNGBWJ)<br>
 126 x [M5 x 10mm Flat Head](https://a.co/d/01dUSnKL)<br>
-6 x [M5 x 10mm Button Head](https://a.co/d/0gON3Pdr)<br>
 24 x [M5 x 16 Flat Head](https://a.co/d/0dsYRy5x)<br>
 24 x [M5 Washers](https://a.co/d/097miC8M)<br>
 4 x [PC4-M10 Male Straight Pneumatic PTFE Tube Push in Quick Fitting Connector](https://a.co/d/0e4PLHHR)<br>
@@ -23,7 +22,6 @@
 ~32 x [2020 Series L-Shape Interior Inside Corner Connector](https://www.amazon.com/dp/B08D6T9CGN)<br>
 ~12 x [2028 Corner Bracket](https://www.amazon.com/dp/B0BFRB35Z8)<br>
 ~15,000mm x [2020 V slot Aluminum Extrusion](https://www.amazon.com/dp/B0BM8H5XZ9)<br>
-12 x [Fulton Acid Glue Applicator Brushes](https://www.amazon.com/gp/product/B000H5AIAK)<br>
 ~24 x [608-2RS Skateboard Bearing](https://www.amazon.com/gp/product/B073ST742Z)<br>
 1 x [Under Cabinet Light, 12 Inch Plug in LED Closet Light, 2pk](https://www.amazon.com/gp/product/B08VDH1GJV)<br>
 LOTS x [PTFE Tube 3mm ID, 4mm OD](https://www.aliexpress.us/item/2251832878144608.html)<br>
