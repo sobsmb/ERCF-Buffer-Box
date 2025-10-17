@@ -31,3 +31,5 @@ LOTS x [PTFE Tube 3mm ID, 4mm OD](https://www.aliexpress.us/item/225183287814460
  [Stern-Wheeler](https://www.printables.com/model/472316-stern-wheeler)<br>
  [2020 Print-In-Place Vertical Hinge](https://www.printables.com/model/794070-2020-print-in-place-vertical-hinge)<br>
  [Voron 2.4 exhaust cover](https://www.printables.com/model/633527-voron-24-exhaust-cover)<br>
+
+NOTES: Attach the bearings to the spool holders using the M5 x 16mm Flat Head screws and on the flat side add a M5 washer to offset the bearing from the 3d print a little.
