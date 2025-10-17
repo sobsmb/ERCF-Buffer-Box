@@ -34,3 +34,5 @@ LOTS x [PTFE Tube 3mm ID, 4mm OD](https://www.aliexpress.us/item/225183287814460
 
 ## Notes
 * Attach the bearings to the spool holders using the M5 x 16mm Flat Head screws and on the flat side add a M5 washer to offset the bearing from the 3d print a little.
+* I printed almost everything in ABS/ASA but for the "Bearing Holder.stl" PETG may be a better choice
+* 10/17/2025: I've made several updates to this over the last year and plan to update soon.
