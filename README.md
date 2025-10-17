@@ -70,7 +70,7 @@ Misc Screws for mounting
 
 ## Spool Holder Parts
 <p align="center">
-  <img src="/Assets/Spool+Holder+parts.jpg" alt='Spool Holder parts' width='50%'>
+  <img src="/Assets/Spool Holder parts.jpg" alt='Spool Holder parts' width='50%'>
 </p>
 
 ## Spool Adapters
