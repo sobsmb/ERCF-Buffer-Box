@@ -75,18 +75,18 @@ Misc Screws for mounting
 
 ## Spool Adapters
 <p align="center">
-  <img src="/Assets/70mm+Adapter.jpg" alt='70mm Adapter' width='25%'>
-  <img src="/Assets/80mm+Adapter.jpg" alt='80mm Adapter' width='25%'>
-  <img src="/Assets/80mm+and+70mm+Adapters.jpg" alt='80mm and 70mm Adapters' width='25%'>
+  <img src="/Assets/70mm Adapter.jpg" alt='70mm Adapter' width='25%'>
+  <img src="/Assets/80mm Adapter.jpg" alt='80mm Adapter' width='25%'>
+  <img src="/Assets/80mm and 70mm Adapters.jpg" alt='80mm and 70mm Adapters' width='25%'>
 </p>
 
 ## Spool Holder Tools
 <p align="center">
   <img src="/Assets/Tools.jpg" alt='Tools' width='50%'>
-  <img src="/Assets/Tools+Stacked.jpg" alt='Tools Stacked' width='50%'>
+  <img src="/Assets/Tools Stacked.jpg" alt='Tools Stacked' width='50%'>
 </p>
 
 ## Quick Connect Assembly
 <p align="center">
-  <img src="/Assets/Quick+Connect+Assembly.png" alt='Quick Connect Assembly' width='50%'>
+  <img src="/Assets/Quick Connect Assembly.png" alt='Quick Connect Assembly' width='50%'>
 </p>
