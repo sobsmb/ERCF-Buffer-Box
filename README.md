@@ -4,7 +4,7 @@
   <img src="/Assets/Filament_Box.png" alt='Buffer-Box' width='70%'>
 </p>
 
-12 Spool Buffer Filament Box for the ERCF v2
+12 Spool Buffer Filament Box for the ERCF v2 (Updated 10/2025)
 
 
 
@@ -29,30 +29,29 @@ LOTS x [PTFE Tube 3mm ID, 4mm OD](https://www.aliexpress.us/item/225183287814460
 
 ## 2025 Updates:
 
-Heater Controller Mount:
-2 x [M5 x 10mm Flat Head]
-2 x [M5 Roll in T-nuts]
-Misc Screws for Mounting
+Heater Controller Mount:<br>
+2 x [M5 x 10mm Flat Head]<br>
+2 x [M5 Roll in T-nuts]<br>
+Misc Screws for Mounting<br>
+<br>
+Heater and Fan: (Rear of Cabinet)<br>
+2 x [M5 x 10mm Flat Head]<br>
+2 x [M5 Roll in T-nuts]<br>
+Misc Screws for Mounting<br>
+<br>
+Filament Box Temp Sensor:<br>
+2 x [M5 x 10mm Flat Head]<br>
+2 x [M5 Roll in T-nuts]<br>
+<br>
+PTFT Quick Connect<br>
+24 x [Bowden Collets](https://a.co/d/7jrjyus)<br>
+26 x [6x3 mm Neodymium Magnets](https://a.co/d/eJB51Ad)<br>
+Misc Screws for mounting<br>
 
-Heater and Fan: (Rear of Cabinet)
-2 x [M5 x 10mm Flat Head]
-2 x [M5 Roll in T-nuts]
-Misc Screws for Mounting
-
-Filament Box Temp Sensor:
-2 x [M5 x 10mm Flat Head]
-2 x [M5 Roll in T-nuts]
-
-PTFT Quick Connect
-24 x [Bowden Collets](https://a.co/d/7jrjyus)
-26 x [6x3 mm Neodymium Magnets](https://a.co/d/eJB51Ad)
-Misc Screws for mounting
-
-
-### Heater
-1x [Digital LED Temperature Controller Module](https://a.co/d/0iozePl6)
-1x [Air Heater, PTC Ceramic Heating DC12V 50W](https://a.co/d/0bwOyqDZ)
-1x [DC 12V 5A Power Supply](https://a.co/d/04rGC9EV)
+### Heater<br>
+1x [Digital LED Temperature Controller Module](https://a.co/d/0iozePl6)<br>
+1x [Air Heater, PTC Ceramic Heating DC12V 50W](https://a.co/d/0bwOyqDZ)<br>
+1x [DC 12V 5A Power Supply](https://a.co/d/04rGC9EV)<br>
 
 ## 3d Models
 
@@ -61,11 +60,28 @@ Misc Screws for mounting
  [Voron 2.4 exhaust cover](https://www.printables.com/model/633527-voron-24-exhaust-cover)<br>
 
 ## Notes
-* Attach the bearings to the spool holders using the M5 x 16mm Flat Head screws and on the flat side add a M5 washer to offset the bearing from the 3d print a little.
+* Attach the bearings to the spool holders using the M5 x 16mm Flat Head screws and on the flat side add a M5 washer to offset the bearing from the 3d print a little, see photo below.
 * I printed almost everything in ABS/ASA but for the "Bearing Holder.stl" PETG may be a better choice
 * Moved the ERCF outside of the box as it was a pain in the arse to clean it, or deal with issues with the ERCF while it was in the box.
 * Created a PTFT Quick Connect so I can more easily pull the ercf away from the filament box
-* For the PTFT Quick Connect print the Female piece and the cap and then using super glue or other good glue, glue them together, see images below.
+* For the PTFT Quick Connect print the Female piece and the cap and then glue them together (Super Glue works great), see image below.
+* Under the box I added some TPU feet so when I pull the box off the wall I can set it down and its not damaging anything on the bottom of the box
+* Glue to "TPU washer" for the spool holder into the void of the "60mm Roller" with a little super glue to prevent it from spinning. Use Softer TPU. You also may need to clip a little off of each finger. This is used to prevent the spool from free spinning
+
+## Wiring
+I will not provide wiring instructions because if you have built a Voron you can probably figure this out on your own, plus your setup is going to be greatly different than mine. 
+
+## Misc
+
+I did include some misc parts that I created for my setup that you are welcome to use.<br>
+<br>
+If you use the [Voron 2.4 Canopy](https://www.printables.com/model/568090-voron-24-canopy) and have a [BTT PITFT50](https://a.co/d/5EXvKxF)<br>
+See: /Misc/Corner.stl and /Misc/PITFT50 Mount.stl<br>
+<br>
+To make wiring easier I used some [14 pin Micro-Fit 3.0 mm connector](https://www.aliexpress.us/item/2251832548943535.html)<br>
+See: /Misc/Back Plate.stl  and /Misc/Port.stl  (P.S. I have a Voron 2.4 350) so the Back Plate may not fit yours
+
+
 
 
 ## Spool Holder Parts
@@ -82,11 +98,24 @@ Misc Screws for mounting
 
 ## Spool Holder Tools
 <p align="center">
-  <img src="/Assets/Tools.jpg" alt='Tools' width='50%'>
-  <img src="/Assets/Tools Stacked.jpg" alt='Tools Stacked' width='50%'>
+  <img src="/Assets/Tools.jpg" alt='Tools' width='25%'>
+  <img src="/Assets/Tools Stacked.jpg" alt='Tools Stacked' width='25%'>
 </p>
 
 ## Quick Connect Assembly
 <p align="center">
   <img src="/Assets/Quick Connect Assembly.png" alt='Quick Connect Assembly' width='50%'>
+</p>
+
+
+## Misc Photos
+<p align="center">
+  <img src="/Assets/Door Closed.png" alt='Door Closed' width='25%'>
+  <img src="/Assets/Heater and Light Power Wires.png" alt='Heater and Light Power Wires' width='25%'>
+  <img src="/Assets/Heater.png" alt='Heater' width='25%'><br/>
+  <img src="/Assets/PITFT50 Mount.png" alt='PITFT50 Mount' width='25%'>
+  <img src="/Assets/Quick Disconnect and WIre.png" alt='Quick Disconnect and WIre' width='25%'>
+  <img src="/Assets/Ribbon Cable.png" alt='Ribbon Cable' width='25%'><br/>
+  <img src="/Assets/Strut Mount.png" alt='Strut Mount' width='25%'>
+  <img src="/Assets/Strut Mount 2.png" alt='Strut Mount 2' width='25%'>
 </p>
