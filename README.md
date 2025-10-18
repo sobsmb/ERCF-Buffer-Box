@@ -48,10 +48,10 @@ PTFT Quick Connect<br>
 26 x [6x3 mm Neodymium Magnets](https://a.co/d/eJB51Ad)<br>
 Misc Screws for mounting<br>
 
-### Heater<br>
+### Heater (UPDATE: Heater Died after a few months, looking for new solutions)<br>
 1x [Digital LED Temperature Controller Module](https://a.co/d/0iozePl6)<br>
-1x [Air Heater, PTC Ceramic Heating DC12V 50W](https://a.co/d/0bwOyqDZ)<br>
-1x [DC 12V 5A Power Supply](https://a.co/d/04rGC9EV)<br>
+~~1x [Air Heater, PTC Ceramic Heating DC12V 50W](https://a.co/d/0bwOyqDZ)<br>~~
+~~1x [DC 12V 5A Power Supply](https://a.co/d/04rGC9EV)<br>~~
 
 ## 3d Models
 
