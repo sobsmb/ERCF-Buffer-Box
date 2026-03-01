@@ -1,0 +1,68 @@
+72 x 55 mm Spool Rewinder for IntegratedRewinder_v5_6_1.scad
+
+output: print
+
+universalRewinderSpring
+rewinderLength: 69
+springBladeCount: 9
+rewinderDiameter: 55.0
+rewinderSetRimDiameter: 80
+axleDiameter: 8
+hubRibDepth: 0
+hubHoles: 0
+embossDecals: true
+embossCharacterTop: 
+embossCharacterBottom: 
+embossAlternateMirror: false
+embossScale: 2
+reverseSprings: false
+springAlternate: true
+springBladeThickness: 2.0
+springBladePitch: 3
+bearingDiameter: 22.2
+bearingWidth: 7
+halloween: 0
+
+Advanced Parameters
+$fn: 70
+axleClearance: 0.3
+axleConnectionDiameter: 13.5
+bearingChamfer: 0.5
+bearingCoverThickness: 1.4
+hubHoleRelSize: 0.75
+hubForceLevelCount: 4
+hubHoleLevelSpacingFactor: 0.9
+hubRibCount: 60
+hubRibWidth: 0.7
+hubHoleCount: 4
+hubHolePolygonSize: 6
+threadPitch: 0.75
+threadDepth: 0.75
+intertwinedThreadCount: 1
+threadClearance: 0.4
+rewinderRimThickness: 2.5
+rewinderWallThickness: 2.5
+springRimThickness: 2.5
+springHubClearance: 1
+springThresholdSpace: 0.5
+springFlatShaft: true
+springFlatShaftLength: 3
+springRoundShaftLength: 6
+springBaseTabCount: 40
+springOuterTabCount: 6
+springInnerTabCount: 6
+springTabThickness: 1.3
+springRadialTabClearance: 0.05
+springBaseRadialTabClearance: 0.05
+springCircularTabClearance: 0.5
+springVerticalTabClearance: 0.5
+springBaseTabSizeFactor: 0.7
+springTabSizeFactor: 0.7
+springTabGapCurvedPartRemovalDepth: 0.4
+springStackGap: 0.5
+springTabHeightRel: 12
+rimGripCount: 12
+embossDepth: 1
+embossEdgeThickness: 1
+embossDecalCount: 4
+universalBackplateThickness: 0.8
