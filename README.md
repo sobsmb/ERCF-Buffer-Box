@@ -22,17 +22,16 @@
 1 x [Under Cabinet Light, 12 Inch Plug-in LED Closet Light, 2pk](https://www.amazon.com/gp/product/B08VDH1GJV)<br>
 LOTS x [PTFE Tube 3mm ID, 4mm OD](https://www.aliexpress.us/item/2251832878144608.html)<br>
 
-
 ## 2026 Updates
 
-* No more [Stern-Wheeler](https://www.printables.com/model/472316-stern-wheeler). I had too much trouble getting these to work right. I kept getting false jams or actual jams because there was too much friction. I’m now using the [Integrated Auto-Rewind Spool Holder](https://www.thingiverse.com/thing:3781815) and made a custom profile that works very well. Models are included, but due to the size of the ones I included, they may not work for you. You may need to “play” with the Integrated Auto-Rewind Spool Holder’s diameter for your needs. The new spool holders also use less hardware. I've included my SCAD settings if you want to start there — see `/STL/Spool Holder 2026 Edition/IntegratedRewinderv5_6_1 Settings.txt`.
+See `Spool Holder 2026 Edition` in the STL folder.
+
+* No more [Stern-Wheeler](https://www.printables.com/model/472316-stern-wheeler). I had too much trouble getting these to work correctly. I kept getting false jams or actual jams because there was too much friction. I’m now using the [Integrated Auto-Rewind Spool Holder](https://www.thingiverse.com/thing:3781815) and made a custom profile that works very well. Models are included, but due to the size of the ones I included, they may not work for you. You may need to “play” with the Integrated Auto-Rewind Spool Holder’s diameter for your needs. The new spool holders also use less hardware. I've included my SCAD settings if you want to start there — see `/STL/Spool Holder 2026 Edition/IntegratedRewinderv5_6_1 Settings.txt`.
 
 * Also, for the Integrated Auto-Rewind Spool Holder — I don't know if this is required, but I think a couple spring sections were sticking together at some points, preventing the spools from rewinding. So I added `Large Divider.stl` and `Small Divider.stl`. These are 0.2mm spacers that go between each spring section. I printed these in PLA since PLA and PETG do not stick together. I haven't had that problem since.  
-  NOTE: Printing a 1-layer pla object and peeling it off is kind of fun, I printed a ton of them and tossed any “bad” ones. Use a [Plastic razor blade](https://a.co/d/0enmqdN7) for better luck.
+  **NOTE:** Printing a 1-layer PLA object and peeling it off is surprisingly fun. I printed a bunch of them and tossed any “bad” ones. Use a [plastic razor blade](https://a.co/d/0enmqdN7) for better luck.
 
-* The `Guide.stl` and `Axle.stl` get glued together so it is easier to align the rewinder when putting them in. the Axle also snaps into the `Spool Mount.stl` on both sides so you know if they are in and secure. Just make sure your printer is fairly dialed in when printing these parts. 
-
-
+* The `Guide.stl` and `Axle.stl` get glued together so it is easier to align the rewinder when installing them. The axle also snaps into the `Spool Mount.stl` on both sides so you know when it is seated and secure. Just make sure your printer is fairly dialed in when printing these parts.
 
 ## 2025 Updates
 
@@ -60,9 +59,6 @@ Misc screws for mounting<br>
 1 x [Air Heater, PTC Ceramic Heating DC12V 50W](https://a.co/d/0bwOyqDZ)<br>
 1 x [DC 12V 60W Power Supply](https://a.co/d/0igF9PvV)<br>
 
-
-
-
 ## 3D Models
 
 [Integrated Auto-Rewind Spool Holder](https://www.thingiverse.com/thing:3781815)<br>
@@ -72,16 +68,16 @@ Misc screws for mounting<br>
 ## Notes
 
 * Spool holder parts do not need any hardware except two 608-2RS skateboard bearings. I cleaned all the grease from my bearings so they spin freely.
-* Print the spool holder parts in PETG. It gives them more grip on the spool, and the internal springs are more flexible.
-* When glueing the Guide and Axle, the Axel should be flat on the ground and the Guide sticking stright up. The parts are not a friction fit, use PETG Gloop or Super Glue
+* Print the spool holder parts in PETG. It gives them more grip on the spool, and the internal springs stay more flexible.
+* When gluing the Guide and Axle: the axle should be flat on the ground and the guide sticking straight up. The parts are **not** a friction fit — use PETG Gloop or super glue.
 * I moved the ERCF outside of the box — it was a pain to clean or deal with issues when it was inside the box.
-* Created a PTFE Quick Connect so I can more easily pull the ERCF away from the filament box.
+* I created a PTFE Quick Connect so I can more easily pull the ERCF away from the filament box.
 * For the PTFE Quick Connect: print the female piece and the cap, then glue them together (super glue works great). See image below.
 * I added some TPU feet under the box so when I pull it off the wall, I can set it down without damaging anything on the bottom.
 
 ## Wiring
 
-I will not provide wiring instructions, because if you have built a Voron you can probably figure this out on your own — plus your setup is going to be very different than mine.
+I will not provide wiring instructions because if you have built a Voron, you can probably figure this out on your own — plus your setup is going to be very different than mine.
 
 ## Misc
 
