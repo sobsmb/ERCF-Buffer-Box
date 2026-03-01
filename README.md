@@ -104,7 +104,7 @@ See: `/Misc/Back Plate.stl` and `/Misc/Port.stl`
 <p align="center">
   <img src="/Assets/Rewinder Assembly 1.jpg" alt='Rewinder Assembly 1' width='25%'>
   <img src="/Assets/Rewinder Assembly 2.jpg" alt='Rewinder Assembly 2' width='25%'><br>
-  <img src="/Assets/Rewinder Assembly 3.jpg" alt='Rewinder Assembly 3' width='25%'>
+  <img src="/Assets/Rewinder Assembly 3.jpg" alt='Rewinder Assembly 3a' width='25%'>
   <img src="/Assets/Rewinder Assembly 4.jpg" alt='Rewinder Assembly 4' width='25%'><br>
   <img src="/Assets/Rewinder Assembly 5.jpg" alt='Rewinder Assembly 5' width='25%'>
   <img src="/Assets/Rewinder Assembly 6.jpg" alt='Rewinder Assembly 6' width='25%'>
