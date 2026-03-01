@@ -70,6 +70,7 @@ Misc screws for mounting<br>
 * Spool holder parts do not need any hardware except two 608-2RS skateboard bearings. I cleaned all the grease from my bearings so they spin freely.
 * Print the spool holder parts in PETG. It gives them more grip on the spool, and the internal springs stay more flexible.
 * When gluing the Guide and Axle: the axle should be flat on the ground and the guide sticking straight up. The parts are **not** a friction fit — use PETG Gloop or super glue.
+* The filament should follow the arrows on the side of the rewinder see `/Assets/Rewinder Assembly 6.jpg`
 * I moved the ERCF outside of the box — it was a pain to clean or deal with issues when it was inside the box.
 * I created a PTFE Quick Connect so I can more easily pull the ERCF away from the filament box.
 * For the PTFE Quick Connect: print the female piece and the cap, then glue them together (super glue works great). See image below.
@@ -93,9 +94,20 @@ See: `/Misc/Back Plate.stl` and `/Misc/Port.stl`
 ## Spool Holder Parts
 
 <p align="center">
-  <img src="/Assets/Spool Rewinder Parts.jpg" alt='Spool Rewinder parts' width='50%'><br />
+  <img src="/Assets/Spool Rewinder Parts.jpg" alt='Spool Rewinder parts' width='50%'><br>
   <img src="/Assets/Guide and Axle 1.jpg" alt='Guide and Axle 1' width='25%'>
   <img src="/Assets/Guide and Axle 2.jpg" alt='Guide and Axle 2' width='25%'>
+</p>
+
+## Spool Assembly
+
+<p align="center">
+  <img src="/Assets/Rewinder Assembly 1.jpg" alt='Rewinder Assembly 1' width='25%'>
+  <img src="/Assets/Rewinder Assembly 2.jpg" alt='Rewinder Assembly 2' width='25%'><br>
+  <img src="/Assets/Rewinder Assembly 3.jpg" alt='Rewinder Assembly 3' width='25%'>
+  <img src="/Assets/Rewinder Assembly 4.jpg" alt='Rewinder Assembly 4' width='25%'><br>
+  <img src="/Assets/Rewinder Assembly 5.jpg" alt='Rewinder Assembly 5' width='25%'>
+  <img src="/Assets/Rewinder Assembly 6.jpg" alt='Rewinder Assembly 6' width='25%'>
 </p>
 
 ## Misc Photos
