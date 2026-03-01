@@ -104,7 +104,7 @@ See: `/Misc/Back Plate.stl` and `/Misc/Port.stl`
 <p align="center">
   <img src="/Assets/Rewinder Assembly 1.jpg" alt='Rewinder Assembly 1' width='25%'>
   <img src="/Assets/Rewinder Assembly 2.jpg" alt='Rewinder Assembly 2' width='25%'><br>
-  <img src="/Assets/Rewinder Assembly 3.jpg" alt='Rewinder Assembly 3' width='25%'>
+  <img src="/Assets/Rewinder Assembly_3.jpg" alt='Rewinder Assembly 3' width='25%'>
   <img src="/Assets/Rewinder Assembly 4.jpg" alt='Rewinder Assembly 4' width='25%'><br>
   <img src="/Assets/Rewinder Assembly 5.jpg" alt='Rewinder Assembly 5' width='25%'>
   <img src="/Assets/Rewinder Assembly 6.jpg" alt='Rewinder Assembly 6' width='25%'>
@@ -117,7 +117,7 @@ See: `/Misc/Back Plate.stl` and `/Misc/Port.stl`
   <img src="/Assets/Heater and Light Power Wires.png" alt='Heater and Light Power Wires' width='25%'>
   <img src="/Assets/Heater.png" alt='Heater' width='25%'><br/>
   <img src="/Assets/PITFT50 Mount.png" alt='PITFT50 Mount' width='25%'>
-  <img src="/Assets/Quick Disconnect and Wire.png" alt='Quick Disconnect and Wire' width='25%'>
+  <img src="/Assets/Quick_Disconnect_and_Wire.png" alt='Quick Disconnect and Wire' width='25%'>
   <img src="/Assets/Ribbon Cable.png" alt='Ribbon Cable' width='25%'><br/>
   <img src="/Assets/Strut Mount.png" alt='Strut Mount' width='25%'>
   <img src="/Assets/Strut Mount 2.png" alt='Strut Mount 2' width='25%'>
